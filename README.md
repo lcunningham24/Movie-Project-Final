@@ -22,29 +22,29 @@ Data_Collection.ipynb
 ## Data Cleaning & Visualization 
 After we gathered all of our data, we decided to merge our dataframes and save them as csv files. 
 
-Question 1: 
+#### Question 1: 
 
 To assess which genres were most common, we grouped our top box office data collection by genre.
 
 See: fig2.png
 
-Question 2
+#### Question 2: 
 
 We wanted to look at profit for each genre, but we had null values in our budget column. The values were missing for low grossing films, so we decided to drop the rows with null values to get a closer look profitability. 
 
 See: fig_profitgenre.png, fig_revenuebudgetprofit.png
 
-Question 3: 
+#### Question 3: 
 
 Next, we looked at just profitability by genre to see if rating affects box office performance. 
 
 See: fig_profitratings.png
 
-Question 4: 
+#### Question 4: 
 
 To assess the best time to release a movie, we looked at profitability by month. 
 
-See: fig_months.png
+##### See: fig_months.png
 
 ## Main Findings
 
